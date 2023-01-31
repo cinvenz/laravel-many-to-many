@@ -8,6 +8,7 @@ use Faker\Generator as Faker;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\Storage;
 
+
 class PostSeeder extends Seeder
 {
     /**
